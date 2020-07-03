@@ -1,3 +1,3 @@
 # Leetcode-problems
 
-Leetcode problems ranging from easy, medium to hard using python
+Leetcode problems ranging from easy, medium to hard using python and java
